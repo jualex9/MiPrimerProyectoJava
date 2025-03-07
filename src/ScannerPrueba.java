@@ -6,7 +6,7 @@ public class ScannerPrueba{
         System.out.print("Ingrese su nombre: ");
         String nombre = Scanner.nextLine();
         System.out.print("Ingrese su edad: ");
-        int edad = Scanner.nextByte();
+        int edad = Scanner.nextInt();
         Scanner.close();
 
         System.out.println("Hola, " + nombre + ". Tienes " + edad + " años.");
