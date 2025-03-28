@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Ejercicio9 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         System.out.print("Ingrese la primera nota: ");
         double nota1 = scanner.nextDouble();
 
@@ -22,7 +21,6 @@ public class Ejercicio9 {
         } else {
             System.out.println("Reprobado");
         }
-
         scanner.close();
     }
 }

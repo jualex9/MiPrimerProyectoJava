@@ -16,7 +16,6 @@ public class Ejercicio11 {
                 countBelow7++;
             }
         }
-
         System.out.println("Cantidad de alumnos con notas mayores o iguales a 7: " + countAboveOrEqual7);
         System.out.println("Cantidad de alumnos con notas menores a 7: " + countBelow7);
 

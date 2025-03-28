@@ -19,7 +19,6 @@ public class Ejercicio15 {
             System.out.println(nombre2);
             System.out.println(nombre1);
         }
-
         scanner.close();
     }
 }

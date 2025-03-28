@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio {
+public class Ejercicio10 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese el sueldo del operario: ");

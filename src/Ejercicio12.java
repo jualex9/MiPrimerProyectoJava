@@ -23,7 +23,6 @@ public class Ejercicio12 {
 
             totalSalaries += salary;
         }
-
         System.out.println("Cantidad de empleados que cobran entre $100 y $300: " + count100to300);
         System.out.println("Cantidad de empleados que cobran más de $300: " + countAbove300);
         System.out.println("El importe total que gasta la empresa en sueldos: $" + totalSalaries);

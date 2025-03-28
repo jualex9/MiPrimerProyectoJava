@@ -8,6 +8,7 @@ public class Ejercicio1 {
      System.out.println( "ingrese segundo numero: ");
      int numDos = sc.nextInt();
      sc.close();
+     
      if (numUno > numDos){
        int suma=  numUno+numDos;
        int resta= numUno-numDos;
