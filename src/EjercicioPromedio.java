@@ -14,7 +14,7 @@ public class EjercicioPromedio {
             suma += numeros[i];
         }
 
-        double promedio = suma / 5.0;
+        double promedio = suma / (double) numeros.length;
         System.out.println("El promedio de los números ingresados es: " + promedio);
 
         scanner.close();

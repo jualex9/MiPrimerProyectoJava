@@ -21,6 +21,6 @@ public class Ejercicio8 {
         } else {
             System.out.println("Fuera de nivel");
         }
-
+       scanner.close();
     }
 }
